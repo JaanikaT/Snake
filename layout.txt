@@ -1,0 +1,6 @@
+Vaja mängulauda
+Skoor
+Message
+Valikud: kas saab minna läbi seina
+
+Hiljem edetabel (andmebaasi ei salvesta, hoiame Local Storage's)
