@@ -4,3 +4,16 @@ Message
 Valikud: kas saab minna läbi seina
 
 Hiljem edetabel (andmebaasi ei salvesta, hoiame Local Storage's)
+
+
+    // //kontrollib, et poleks piiridest väljas
+    // if(headX < 0){
+    //     headX = width -1;
+    // }else if (headX >= width){
+    //     headX = 0
+    // };
+    // if(headY < 0){
+    //     headY = height -1;
+    // }else if (headY >= height){
+    //     headY = 0
+    // };
